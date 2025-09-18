@@ -20,3 +20,5 @@ This project contains 3 Python programs:
 3. Run the file with Python:
    ```bash
    python main.py
+
+Author: OmarhaniMorar
